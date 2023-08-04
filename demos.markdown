@@ -10,3 +10,6 @@ description: Rare demos from before our favourite bands were famous
 
 ### Arctic Monkeys
 - [Beneath The Boardwalk (2004)](/demos/beneath_the_boardwalk)
+
+### Interpol
+- [Demo (1998)](/demos/interpol)
