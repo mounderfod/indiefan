@@ -10,13 +10,14 @@ description: 2004 Arctic Monkeys demo
 
 (Arctic Monkeys, 2004)
 
+
 <div>
 {% for file in site.static_files %}
     {% if file.path contains 'btb' %}
         <h3>{{file.name}}</h3>
 
         <audio controls style="width: 100%">
-            <source src="{{file.path}}">
+            <source src="https://raw.githubusercontent.com/mounderfod/indiefan/master/assets/audio/btb/{{file.name}}">
         </audio><br><br>
     {% endif %}
 {% endfor %}
