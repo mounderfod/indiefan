@@ -1,4 +1,4 @@
-bar = document.getElementById("topBar")
+let bar = document.getElementById("topBar")
 quotes = [
     "My best friend's a butcher, he has sixteen knives",
     "I got soul, but I'm not a soldier",
