@@ -8,7 +8,9 @@ quotes = [
     "I'm going to Wichita, far from this opera forever more",
     "Coming out of my cage and I've been feeling just fine",
     "I bet that you look good on the dancefloor",
-    "Oh baby I feel so down"
+    "Oh baby I feel so down",
+    "I'm just trying to find a mountain I can climb",
+    "Outside the cafby the cracker factory",
 ]
 
 let random = Math.floor(Math.random() * quotes.length);
