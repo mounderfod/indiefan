@@ -42,5 +42,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 collections:
   - news
